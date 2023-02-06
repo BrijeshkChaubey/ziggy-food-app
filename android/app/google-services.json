@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "967194841636",
+    "project_id": "ziggy-7038f",
+    "storage_bucket": "ziggy-7038f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967194841636:android:a40e7cdb2c25ad45a4beb1",
+        "android_client_info": {
+          "package_name": "com.amazonclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967194841636-vl3dciif7ubnkks8hqmi1rk4mo1vas2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXSptVXgoXmuijew3dOiUfl3aGIocc0y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967194841636-vl3dciif7ubnkks8hqmi1rk4mo1vas2n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "967194841636-ag321k6aj73k7bhs0hfdsbh57pngci67.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amazonclone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
